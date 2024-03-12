@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BarkMobile</string>
+    <string name="back">Back</string>
+    <string name="menu_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="email_author">HaidarBagirAlfahmi30@gmail.com</string>
+    <string name="name_author">Haidar Bagir Alfahmi</string>
+    <string name="empty_favorite">Tidak ada list favorite.</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="delete_favorite">Remove from Favorite</string>
+    <string name="search_text">Masukan pemain yang ingin dicari</string>
+</resources>
